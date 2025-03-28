@@ -1,5 +1,3 @@
-# Hi there, I'm [alenc9] 👋
-
 ## About Me
 Software developer
 
