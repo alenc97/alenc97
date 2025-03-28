@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm [Alen] 👋
 
-<!--
-**alenc97/alenc97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Software developer
 
-Here are some ideas to get you started:
+## 🛠 Technologies & Tools
+- **Languages**: Python, C#
+- **Frameworks**: .NET
+- **Databases**: MSSQL
+- **Tools**: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/a.chatsikian](https://gr.linkedin.com/in/alen-chatsikian-4604a2165))
