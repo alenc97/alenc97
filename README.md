@@ -1,4 +1,4 @@
-# Hi there, I'm [Alen] 👋
+# Hi there, I'm [alenc9] 👋
 
 ## About Me
 Software developer
@@ -10,4 +10,4 @@ Software developer
 - **Tools**: Git
 
 ## 📫 How to Reach Me
-- LinkedIn: [LinkedIn Profile](https://gr.linkedin.com/in/alen-chatsikian-4604a2165)
+- LinkedIn: [Link](https://gr.linkedin.com/in/alen-chatsikian-4604a2165)
